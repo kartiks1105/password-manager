@@ -2,7 +2,7 @@
 from choices import menu, add_password, find_password, find_account
 
 
-secret1 = 's3cr3t'
+secret1 = 'test'
 
 pword = input('Enter the master password: ')
 
