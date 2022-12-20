@@ -2,11 +2,11 @@
 from choices import menu, add_password, find_password, find_account
 
 
-secret1 = 'test'
+masterPass = 'test'
 
 pword = input('Enter the master password: ')
 
-if pword == secret1:
+if pword == masterPass:
     print('Welcome')
 
 else:
